@@ -6,6 +6,10 @@ Este repositório contém a implementação de um solucionador para o problema d
 
 - `Notebook/Codigos_para_o_artigo_Matemática_Computacional.ipynb` – Notebook principal com todo o código (upload de dados, PLI, GA, análise de sensibilidade e geração de tabelas).
 - `README.md` – Este arquivo com instruções de uso.
+- `convergencia_i04.png` - Grafico de convergencia para a instancia I04.
+- `convergencia_i05.png` - Grafico de convergencia para a instancia I05.
+- `convergencia_i06.png` - Grafico de convergencia para a instancia I06.
+- `convergencia_i18.png` - Grafico de convergencia para a instancia I18.
 - `tabela_comparacao_final.csv` – Tabela comparativa gerada após execução (será criada automaticamente).
 - `tabela_sensibilidade_geral.csv` – Tabela de análise de sensibilidade (será criada automaticamente).
 
@@ -94,8 +98,8 @@ Todas as bibliotecas necessárias são instaladas automaticamente na primeira c�
 
 ## 👥 Autores
 
-- Gian Victor Gonçalves Figueredo – [e-mail]
-- Kaleo Nabor Pimentel da Cunha – [e-mail]
+- Gian Victor Gonçalves Figueredo – [gian.figueiredo@icen.ufpa.br]
+- Kaleo Nabor Pimentel da Cunha – [kaleo.cunha@icen.ufpa.br]
 
 ## 📄 Licença
 
